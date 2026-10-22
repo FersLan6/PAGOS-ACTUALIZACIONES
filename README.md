@@ -1,0 +1,2 @@
+# PAGOS-ACTUALIZACIONES
+Actualizaciones oficiales
